@@ -1,0 +1,10 @@
+com/gradle/project/Tictactoegame.java
+ com.gradle.project.Tictactoegame
+com/gradle/project/Tictactoeboard.java
+ com.gradle.project.Tictactoeboard
+com/gradle/project/Tictactoemanager.java
+ com.gradle.project.Tictactoemanager
+com/gradle/project/Tictactoeplayer.java
+ com.gradle.project.Tictactoeplayer
+com/gradle/project/Tictactoegrid.java
+ com.gradle.project.Tictactoegrid
